@@ -259,8 +259,8 @@ preprocessor = Pipeline(steps=[
 ])
 
 # read the training data
-dir_path =r"C:\Users\nikhi\OneDrive\Documents\DATA SCIENCE\PROJECTS\18-Flight_Price_Predictor\DATA"
-train = pd.read_csv(os.path.join(dir_path,"train.csv"))
+
+train = pd.read_csv("train.csv")
 X_train = train.drop(columns="price")
 y_train = train.price.copy()
 
