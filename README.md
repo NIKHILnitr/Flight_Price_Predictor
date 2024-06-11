@@ -1,4 +1,4 @@
-# AWS SageMaker End-to-End Machine Learning Course
+# AWS SageMaker End-to-End Machine Learning Project
 
 AWS SageMaker End-to-End Machine Learning Project
 
